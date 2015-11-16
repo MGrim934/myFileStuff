@@ -26,5 +26,10 @@ namespace myFileStuff
         {
             this.InitializeComponent();
         }
+
+        private void btnMain_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+
+        }
     }
 }
